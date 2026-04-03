@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Kavindu%20|%20Back%20End%20Developer&textBg=false&animation=fadeIn&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Backend%20%20Architect%20and%20Mobile%20Application%20Specialist&textBg=false&animation=fadeIn&fontSize=30" />
 
 <br />
 
-## 📱 Mobile Application Specialist & 🛠️ Backend Architect
+
 **Building high-performance Android applications and robust server-side infrastructures.**
 
 ---
