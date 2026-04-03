@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Kavindu%20|%20Mobile%20%26%20Backend%20Developer&textBg=false&animation=fadeIn&fontSize=40" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Kavindu%20|%20Back%20End%20Developer&textBg=false&animation=fadeIn&fontSize=40" />
 
 <br />
 
