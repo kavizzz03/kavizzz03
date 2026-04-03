@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=KAVINDU%20|%20OFFICIAL&textBg=false&animation=fadeIn&fontSize=50&fontAlignY=35&customColorList=10" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Backend%20%20Architect%20and%20Mobile%20Application%20Specialist&textBg=false&animation=fadeIn&fontSize=30&section=header&reversal=true" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=EE1D23&center=true&vCenter=true&width=600&lines=ANDROID+APP+SPECIALIST;BACKEND+ARCHITECT;SYSTEM+AUTOMATION+EXPERT;FULL-STACK+ENGINEER" alt="Typing SVG" />
