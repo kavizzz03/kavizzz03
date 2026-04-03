@@ -14,6 +14,8 @@ I am a passionate software developer with experience in building dynamic web app
 - Node.js
 - Flask
 
+- ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=kavizzz03&theme=radical)
+
 ### Tools
 - Git
 - Docker
