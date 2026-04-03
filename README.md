@@ -23,6 +23,14 @@ I am a passionate software developer with experience in building dynamic web app
 - MongoDB
 - MySQL
 
+
+![Hire Me App](https://img.shields.io/badge/Hire-Me-App-Completed-blue?style=for-the-badge)
+![AI Subtitle Generator](https://img.shields.io/badge/AI_Subtitle_Generator-Completed-brightgreen?style=for-the-badge)
+![States Downloader](https://img.shields.io/badge/States-Downloader-Completed-orange?style=for-the-badge)
+![SMS & WhatsApp System](https://img.shields.io/badge/SMS-WhatsApp-Completed-red?style=for-the-badge)
+![Briannana Mobile Game](https://img.shields.io/badge/Briannana-Game-Completed-yellow?style=for-the-badge)
+![Next.js Projects](https://img.shields.io/badge/Next.js-Completed-purple?style=for-the-badge)
+![Laravel Projects](https://img.shields.io/badge/Laravel-Completed-pink?style=for-the-badge)
 ## 🌟 Featured Projects
 ### [Project 1: Awesome App](https://example.com)
 - **Description**: An application that does amazing things.
