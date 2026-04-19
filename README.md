@@ -4,18 +4,17 @@ If your HEADER image is not showing:
 2) Some image services occasionally go down. This README uses 2 header options.
 3) If one header fails, switch to the other by commenting/uncommenting.
 -->
-
 <div align="center">
 
 <!-- =======================
      HEADER (Option A) - Capsule Render
      If this doesn't work, use Option B below
 ======================== -->
-<!-- Option A -->
+<!-- Hero / Header -->
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=220&section=header&text=Kavindu%20Bogahawatte&fontSize=48&fontColor=FFFFFF&desc=Backend%20Architect%20%E2%80%A2%20Android%20Developer%20%E2%80%A2%20Automation%20%26%20Integrations&descSize=18&descAlign=50&descAlignY=70"
+  src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Kavindu%20Bogahawatte&fontSize=48&fontAlignY=38&desc=Backend%20Architect%20%E2%80%A2%20Android%20Specialist%20%E2%80%A2%20System%20Builder&descAlignY=60&animation=fadeIn"
   width="100%"
-  alt="Kavindu Bogahawatte Header"
+  alt="header"
 />
 
 <!-- =======================
