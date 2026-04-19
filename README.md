@@ -220,3 +220,10 @@ A business system for managing customer communication: SMS, WhatsApp, and Email 
 <div align="center">
   <sub>© 2026 • Built by Kavindu • Focused on scalable systems & real-world products</sub>
 </div>
+<div align="center">
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Let%27s%20Build%20Something%20Great&fontSize=22&fontColor=FFFFFF"
+  width="100%"
+  alt="footer"
+/>
+</div>
