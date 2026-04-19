@@ -42,12 +42,19 @@ If your HEADER image is not showing:
   📍 Sri Lanka • ⚡ Performance • 🔒 Security • 🔌 Integrations
 </p>
 
-<!-- Quick Contact -->
-<p align="center">
-  <a href="mailto:kavindumalshan2003@gmail.com"><b>Email</b></a> ・
-  <a href="https://wa.me/94740890730"><b>WhatsApp</b></a> ・
-  <a href="https://linkedin.com/in/www.linkedin.com/in/kavindu-bogahawatte-7b3810320"><b>LinkedIn</b></a>
-</p>
+<div align="center">
+
+<a href="https://linkedin.com/in/www.linkedin.com/in/kavindu-bogahawatte-7b3810320" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://wa.me/94740890730" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+<a href="mailto:kavindumalshan2003@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+</div>
 
 <!-- Badges -->
 <p align="center">
