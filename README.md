@@ -218,7 +218,7 @@ A business system for managing customer communication: SMS, WhatsApp, and Email 
 ---
 
 <div align="center">
-  <sub>© 2026 • Built by Kavindu • Focused on scalable systems & real-world products</sub>
+  <sub>© 2026 • Built by Kavindu • Focused on scalable systems & real world products</sub>
 </div>
 <div align="center">
 <img
