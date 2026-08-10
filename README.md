@@ -1,10 +1,10 @@
 # 👨‍💻 Kavindu Bogahawatte
 
-### Full-Stack Software Engineer • Backend Engineer • Android Developer • API Integration Specialist
+### Full Stack Software Engineer • Backend Engineer • Android Developer • API Integration Specialist
 
-> **Designing scalable systems, building reliable APIs, and turning complex ideas into production-ready digital products.**
+> **Designing scalable systems, building reliable APIs, and turning complex ideas into production ready digital products.**
 
-I am a software engineer focused on **full-stack web development, backend engineering, native Android development, database architecture, API integrations, and distributed application systems**.
+I am a software engineer focused on **full stack web development, backend engineering, native Android development, database architecture, API integrations, and distributed application systems**.
 
 My development approach combines modern frontend frameworks, robust backend services, structured databases, mobile applications, third-party integrations, automated workflows, and deployment-ready architectures.
 
