@@ -389,11 +389,11 @@ Monitoring & Maintenance
 # 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kavizzz03&show_icons=true&hide_border=true&rank_icon=github" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavizzz03&hide_border=true" />
 </p>
 
 ---
