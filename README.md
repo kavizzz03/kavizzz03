@@ -1,472 +1,383 @@
-# 👨‍💻 Kavindu Bogahawatte
+<div align="center">
 
-### Full Stack Software Engineer • Backend Engineer • Android Developer • API Integration Specialist
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6C47FF,100:35E0FF&text=Kavindu%20Bogahawatte&fontColor=ffffff&fontSize=52&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20%E2%80%A2%20Backend%20%E2%80%A2%20Android%20%E2%80%A2%20API%20Integrations&descSize=18&descAlignY=58" alt="Kavindu Bogahawatte banner" width="100%" />
 
-> **Designing scalable systems, building reliable APIs, and turning complex ideas into production ready digital products.**
+<a href="https://github.com/kavizzz03">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=6C47FF&center=true&vCenter=true&width=760&height=48&lines=Designing+scalable+systems.;Building+reliable+APIs.;Shipping+native+Android+apps.;Turning+complex+ideas+into+products." alt="Typing animation" />
+</a>
 
-I am a software engineer focused on **full stack web development, backend engineering, native Android development, database architecture, API integrations, and distributed application systems**.
+<br/>
 
-My development approach combines modern frontend frameworks, robust backend services, structured databases, mobile applications, third-party integrations, automated workflows, and deployment-ready architectures.
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C47FF?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/kavizzz03)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kavindu-bogahawatte-7b3810320)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavindumalshan2003@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94740890730)
+![Profile views](https://komarev.com/ghpvc/?username=kavizzz03&style=for-the-badge&color=35E0FF&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
-## 🚀 Engineering Profile
+## 👋 Hello, I'm Kavindu
+
+I'm a software engineer in **Colombo, Sri Lanka**. I build the quiet, dependable systems behind everyday things: the message that reaches a customer's phone, the order that gets approved, the app that simply works.
+
+```ts
+const kavindu: Engineer = {
+  role:      "Associate Software Engineer",
+  company:   "ASB Fashion (Pvt) Ltd",
+  education: "BSc (Hons) Software Engineering, University of Bedfordshire",
+  strengths: ["REST APIs", "Backend systems", "Native Android", "Database design"],
+  exploring: ["Reliable APIs", "Jetpack Compose", "WhatsApp automation", "Flood prediction"],
+  openTo:    ["Backend roles", "Full-stack roles", "Contract work"],
+  motto:     "Build • Integrate • Scale • Improve",
+};
+```
+
+<div align="center">
+
+| 🏢 Platform I built | 🎯 Designed to scale to | 🧪 Side projects | 🧰 Stacks I ship in |
+|:---:|:---:|:---:|:---:|
+| **200,000+**<br/>loyalty customers | **1,000,000**<br/>customers | **30+**<br/>and counting | **6**<br/>PHP to Kotlin |
+
+</div>
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+| | Technologies |
+|:--|:--|
+| **🌐 Frontend** | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,bootstrap,tailwind" alt="frontend" /> |
+| **⚙️ Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,php,python" alt="backend" /> |
+| **📱 Mobile** | <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase" alt="mobile" /> |
+| **🗄️ Databases** | <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" alt="databases" /> **+ Microsoft SQL Server** |
+| **🐳 DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,postman" alt="devops" /> |
+
+</div>
+
+<details>
+<summary><b>📋 Full capability matrix</b></summary>
+<br/>
 
 | Area | Focus |
 |---|---|
-| 🌐 **Web Engineering** | Next.js, React, TypeScript, JavaScript, responsive UI |
-| ⚙️ **Backend Engineering** | Node.js, Express.js, PHP, Python, REST APIs |
-| 📱 **Mobile Engineering** | Kotlin, Java, Android SDK, Jetpack Compose |
+| 🌐 **Web engineering** | Next.js, React, TypeScript, JavaScript, responsive UI, SEO |
+| ⚙️ **Backend engineering** | Node.js, Express.js, PHP, Python, REST APIs |
+| 📱 **Mobile engineering** | Kotlin, Java, Android SDK, Jetpack Compose |
 | 🗄️ **Databases** | MySQL, Microsoft SQL Server, MongoDB, Firebase |
-| 🔌 **API Engineering** | REST APIs, Webhooks, OAuth, JSON, third-party integrations |
-| ☁️ **Cloud & Services** | Firebase, Vercel, Linux-based environments |
+| 🔌 **API engineering** | REST, webhooks, OAuth, JSON, third-party integrations |
+| ☁️ **Cloud & services** | Firebase, Vercel, Linux-based environments |
 | 🧪 **Testing** | Postman, API testing, debugging, integration testing |
-| 🐳 **Infrastructure** | Git, GitHub, Docker, Linux, deployment workflows |
-| 🤖 **Automation** | Python automation, media processing, scheduled/background workflows |
+| 🤖 **Automation** | Python automation, FFmpeg media processing, background workflows |
+
+</details>
 
 ---
 
-# 🧠 Core Technology Stack
+## 🧩 Featured Projects
 
-### Frontend
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,bootstrap" />
-</p>
+### 📣 Broadcast Management System
+*ASB Fashion, 2026*
 
-**Next.js • React • TypeScript • JavaScript • HTML5 • CSS3 • Bootstrap**
+SMS, WhatsApp and email campaigns for **200,000+ loyalty customers**, built to keep working past 1 million.
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp_Business_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![SMS](https://img.shields.io/badge/Hutch_SMS_API-FF4FD8?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌊 FloodMind
+*BSc research project, University of Bedfordshire*
+
+Early flood warning for the **Kelani River**: XGBoost models predict water level and flood risk from sensor data.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB5E28?style=flat-square)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP_REST_API-777BB4?style=flat-square&logo=php&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧾 Purchasing Order Management
+*ASB Fashion, 2026*
+
+Purchase orders from request to approval, goods receiving and quality check. Built with **no JavaScript framework**.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛍️ ASB Fashion Website
+*ASB Fashion, 2026*
+
+Product showcases, promotions and **online gift vouchers** for a leading Sri Lankan fashion retailer, built for SEO and speed.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-optimised-6C47FF?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Brainana
+*Personal project*
+
+A maths and logic puzzle game for Android with a modern **Jetpack Compose** interface.
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍽️ Arrow Food
+*Personal project*
+
+A backend-focused application covering clean **REST API design** and server-side logic.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST](https://img.shields.io/badge/REST-API-35E0FF?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🧪 More from the sketchbook</b></summary>
+<br/>
+
+| Project | What it does | Stack |
+|---|---|---|
+| **DownVid** | A video downloader | React, Node.js, Express, Python, yt-dlp, FFmpeg |
+| **AI Subtitle Pro** | Subtitles from audio and video with Whisper AI | Python, Whisper AI, Node.js, React |
+| **Hire Us** | Worker registration, ID verification and job tracking | PHP, MySQL, Java |
+| **KMD Sweet House** | Business site with product showcases and admin tools | React, PHP, MySQL |
+| **StatusBox** | Android app for handling and saving status media | Java, Kotlin, Android SDK |
+| **MediCare** | Desktop app for patients, appointments and medicines | Java, OOP, MySQL, SMTP |
+
+</details>
+
+> 📂 Browse everything in **[Repositories](https://github.com/kavizzz03?tab=repositories)**.
 
 ---
 
-### Backend
+## 🏗️ Architecture Approach
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python" />
-</p>
+I prefer modular systems where the **frontend, backend, database and external services stay independently maintainable**.
 
-**Node.js • Express.js • PHP • Python • REST API Architecture**
+```mermaid
+flowchart TB
+    subgraph Clients
+        A["Next.js / React"]:::fe
+        B["Android · Kotlin · Compose"]:::mob
+    end
+    A & B -->|"HTTPS · JSON"| C{{"API layer<br/>REST · Webhooks"}}:::api
+    C --> D["Node.js / Express"]:::be
+    C --> E["PHP"]:::be
+    C --> F["Python workers"]:::be
+    D & E & F --> G["Service layer<br/>Auth · Validation · Business logic · Integrations"]:::svc
+    G --> H[("MySQL")]:::db
+    G --> I[("MongoDB")]:::db
+    G --> J[("MS SQL Server")]:::db
+    G -.-> K["WhatsApp · SMS · Email · Firebase<br/>Payments · Maps · OAuth · AI APIs"]:::ext
 
----
+    classDef fe fill:#E8ECFF,stroke:#6C47FF,color:#14112B
+    classDef mob fill:#D3F6E9,stroke:#0E9F78,color:#14112B
+    classDef api fill:#6C47FF,stroke:#6C47FF,color:#ffffff
+    classDef be fill:#FFF0B8,stroke:#E5A100,color:#14112B
+    classDef svc fill:#FFD9E6,stroke:#E5484D,color:#14112B
+    classDef db fill:#D8E9F4,stroke:#1AA7EC,color:#14112B
+    classDef ext fill:#ffffff,stroke:#999999,color:#14112B,stroke-dasharray: 5 5
+```
 
-### Mobile Development
+### 📱 Mobile ↔ API
 
-<p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,firebase" />
-</p>
+Android clients stay lightweight while sensitive logic and data operations live behind secure backend services.
 
-**Kotlin • Java • Android SDK • Jetpack Compose • Android Studio • Firebase**
+```mermaid
+sequenceDiagram
+    autonumber
+    participant App as 📱 Android app
+    participant API as ⚙️ REST API
+    participant DB as 🗄️ Database
+    participant Ext as 🔌 External service
+    App->>API: HTTPS request (JSON + token)
+    API->>API: Authenticate and validate
+    API->>DB: Read / write
+    API->>Ext: Call provider (SMS, WhatsApp, Firebase...)
+    Ext-->>API: Result or webhook callback
+    API-->>App: JSON response
+```
 
----
+> **Integration principle:** external services are isolated providers behind reusable service layers, so they are easier to test, replace, scale and maintain.
 
-### Databases
+<details>
+<summary><b>🔌 API &amp; integration capabilities</b></summary>
+<br/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
-</p>
+<table>
+<tr>
+<td valign="top" width="50%">
 
-**MySQL • MongoDB • Microsoft SQL Server • Firebase**
-
----
-
-### Development & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,postman" />
-</p>
-
-**Git • GitHub • Docker • Linux • Vercel • Postman**
-
----
-
-# 🔌 External API & Integration Engineering
-
-I build applications that communicate reliably with **external services, third-party platforms, mobile clients, and internal microservices**.
-
-### API Capabilities
-
+**API engineering**
 - REST API development and consumption
-- JSON-based data exchange
-- API authentication
-- API key management
-- OAuth-based integrations
-- Bearer-token authentication
-- Webhook development
-- Webhook verification
-- Request validation
-- Rate-limit aware integrations
-- Error handling and retry strategies
-- Pagination and filtering
-- File upload/download APIs
-- Multipart form-data processing
-- Background API processing
-- API logging and monitoring
+- API keys, OAuth and bearer-token authentication
+- Webhook development and verification
+- Request validation, pagination and filtering
+- Multipart uploads and file APIs
+- Rate-limit aware calls, retries and error handling
+- Background processing, logging and monitoring
 - Postman collections and endpoint testing
 
-### External Service Integrations
+</td>
+<td valign="top" width="50%">
 
-Architecture can support integrations such as:
-
+**Services I integrate**
 - 💬 WhatsApp Business APIs
-- 📱 SMS gateway APIs
-- 📧 Email service APIs
-- 🔐 OAuth / social authentication
-- 💳 Payment gateway APIs
-- 🗺️ Maps & location APIs
-- 🔔 Push notification services
-- ☁️ Firebase services
-- 📦 Cloud storage APIs
-- 🤖 AI / machine-learning APIs
-- 🎥 Media-processing APIs
-- 📊 Analytics APIs
-- 🔗 Custom enterprise APIs
+- 📱 SMS gateways
+- 📧 Email services
+- 🔐 OAuth and social sign-in
+- 💳 Payment gateways
+- 🗺️ Maps and location
+- 🔔 Push notifications and Firebase
+- 🤖 AI and ML APIs, 🎥 media processing
 
-> **Integration principle:** external services are treated as isolated providers behind reusable service layers, making systems easier to test, replace, scale, and maintain.
+</td>
+</tr>
+</table>
+
+</details>
 
 ---
 
-# 🏗️ Architecture Approach
+## 🔐 Engineering Principles
 
-I prefer building systems using a modular architecture where the **frontend, backend, database, external services, and integrations remain independently maintainable**.
+<table>
+<tr>
+<td align="center" width="25%">
 
-```text
-                         CLIENT APPLICATIONS
-                ┌──────────────┼──────────────┐
-                │              │              │
-             Next.js         React         Android
-                │              │           Kotlin/Java
-                └──────────────┼──────────────┘
-                               │
-                               ▼
-                    ┌────────────────────┐
-                    │     API Layer      │
-                    │ REST / Webhooks    │
-                    └─────────┬──────────┘
-                              │
-                ┌─────────────┼─────────────┐
-                ▼             ▼             ▼
-           Node.js         Express          PHP
-                │             │             │
-                └─────────────┼─────────────┘
-                              │
-                              ▼
-                    ┌────────────────────┐
-                    │   Service Layer    │
-                    │ Business Logic     │
-                    │ Auth / Validation   │
-                    │ Integrations        │
-                    └─────────┬──────────┘
-                              │
-              ┌───────────────┼────────────────┐
-              ▼               ▼                ▼
-           MySQL           MongoDB           MS SQL
-              │               │                │
-              └───────────────┼────────────────┘
-                              │
-                              ▼
-                  EXTERNAL SERVICES / APIs
-          ┌──────────┬──────────┬──────────────┐
-          │ WhatsApp │   SMS    │   Firebase   │
-          │ Payments │  Email   │   Custom API │
-          │ Maps     │  OAuth   │   Webhooks   │
-          └──────────┴──────────┴──────────────┘
+### 🛡️ Security
+Input validation<br/>Authentication<br/>Authorization<br/>Secrets in environments<br/>Server-side checks
+
+</td>
+<td align="center" width="25%">
+
+### ⚡ Performance
+Efficient queries<br/>API optimisation<br/>Async processing<br/>Caching<br/>Background jobs
+
+</td>
+<td align="center" width="25%">
+
+### 🧱 Reliability
+Structured errors<br/>API retries<br/>Logging<br/>Webhook verification<br/>Graceful failure
+
+</td>
+<td align="center" width="25%">
+
+### 🧩 Maintainability
+Modular design<br/>Reusable services<br/>Clean API contracts<br/>Version control<br/>Per-environment config
+
+</td>
+</tr>
+</table>
+
+### 🛠️ How I work
+
+```mermaid
+flowchart LR
+    A["💡 Idea"] --> B["📋 Requirements"] --> C["🏗️ Architecture"] --> D["🎨 UI / UX"] --> E["⚙️ Backend & APIs"] --> F["🗄️ Database"]
+    F --> G["🔌 Integrations"] --> H["🧪 Testing"] --> I["🚀 Deploy"] --> J["📈 Monitor & improve"]
+    J -.-> A
 ```
 
 ---
 
-# 📱 Mobile ↔ API Architecture
+## 🧭 Career Path
 
-For Android applications, I work with API-driven architectures where the mobile client communicates with secure backend services.
-
-```text
-Android Application
-       │
-       │ HTTPS / JSON
-       ▼
-   REST API
-       │
-       ├── Authentication
-       ├── Validation
-       ├── Business Logic
-       ├── Database Operations
-       └── External API Calls
-                │
-                ▼
-       External Services
-```
-
-This approach allows mobile applications to remain lightweight while keeping sensitive business logic and data operations on the backend.
-
----
-
-# 🧩 Featured Engineering Projects
-
-## 🚀 Enterprise Messaging Gateway
-
-A multi-channel communication platform designed for campaign broadcasting, transactional notifications, and automated messaging.
-
-**Architecture**
-
-`PHP` `MySQL` `REST APIs` `Webhooks` `Messaging APIs`
-
-**Key Engineering Areas**
-
-- API-driven messaging
-- Contact and campaign management
-- Message processing
-- External gateway integration
-- Database-backed delivery records
-- Webhook handling
-- Transactional notifications
-
----
-
-## 🌐 Full-Stack Business Platforms
-
-Modern business and e-commerce platforms designed with responsive interfaces and API-driven backend systems.
-
-**Stack**
-
-`Next.js` `React` `Node.js` `Express.js` `PHP` `MySQL` `MongoDB`
-
-**Focus**
-
-- Responsive UI
-- Dynamic content
-- Product systems
-- Authentication
-- API integrations
-- Database management
-- Admin systems
-- Deployment-ready architecture
-
----
-
-## 📱 Android Application Systems
-
-Native Android applications developed with modern Kotlin/Java technologies.
-
-**Stack**
-
-`Kotlin` `Java` `Android SDK` `Jetpack Compose` `Firebase` `REST APIs`
-
-**Focus**
-
-- Modern Android UI
-- API communication
-- Local data management
-- Firebase services
-- Authentication
-- State management
-- Offline-aware workflows
-
----
-
-## 🧠 Brainana — Math Logic Mobile Game
-
-An interactive Android mathematical puzzle application designed around responsive UI states and efficient local application logic.
-
-**Stack**
-
-`Kotlin` `Jetpack Compose` `Android SDK`
-
----
-
-## 🌊 FloodMind — Kelani River Flood Prediction System
-
-An IoT and data-driven flood monitoring and prediction platform combining sensor data, backend APIs, databases, automated processing, and predictive modelling.
-
-**Stack**
-
-`Python` `PHP` `MySQL` `REST APIs` `Arduino` `Machine Learning`
-
-**System Components**
-
-- Sensor data collection
-- Backend API
-- Database storage
-- Automated data processing
-- Water-level prediction
-- Alert workflows
-- Monitoring interface
-
----
-
-# 🔐 Engineering Principles
-
-### Security First
-
-- Input validation
-- Authentication
-- Authorization
-- Secure API communication
-- Environment-based secrets
-- Server-side validation
-- Controlled external API access
-
-### Performance
-
-- Efficient database queries
-- API optimization
-- Asynchronous processing
-- Caching strategies
-- Background jobs
-- Optimized frontend rendering
-
-### Reliability
-
-- Structured error handling
-- API retries
-- Logging
-- Validation
-- Webhook verification
-- Graceful failure handling
-
-### Maintainability
-
-- Modular architecture
-- Reusable services
-- Separation of concerns
-- Clean API contracts
-- Version-controlled development
-- Environment-specific configuration
-
----
-
-# 🧪 API Development & Testing Workflow
-
-```text
-Requirements
-     ↓
-API Architecture
-     ↓
-Endpoint Design
-     ↓
-Database Schema
-     ↓
-Implementation
-     ↓
-Postman Testing
-     ↓
-Integration Testing
-     ↓
-Error & Security Testing
-     ↓
-Deployment
-     ↓
-Monitoring & Maintenance
+```mermaid
+flowchart LR
+    A["🎓 Higher Diploma in IT<br/>SLIIT City University, Colombo"] --> B["🎓 BSc (Hons) Software Engineering<br/>University of Bedfordshire · 2023 to 2026"]
+    B --> C["💼 Software Engineering Intern<br/>ASB Fashion · Nov 2025"]
+    C --> D["🚀 Associate Software Engineer<br/>ASB Fashion · May 2026 to now"]
 ```
 
 ---
 
-# 🛠️ Development Workflow
+## 📊 GitHub Activity
 
-```text
-💡 Idea
-  ↓
-📋 Requirements
-  ↓
-🏗️ Architecture
-  ↓
-🎨 UI / UX
-  ↓
-⚙️ Backend & APIs
-  ↓
-🗄️ Database
-  ↓
-🔌 External Integrations
-  ↓
-🧪 Testing
-  ↓
-🐛 Debugging
-  ↓
-🚀 Deployment
-  ↓
-📈 Optimization
-```
+<div align="center">
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kavizzz03&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&rank_icon=github" />
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kavizzz03&show_icons=true&hide_border=true&theme=default&rank_icon=github" height="170" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kavizzz03&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000" />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavizzz03&layout=compact&hide_border=true&theme=default" height="170" />
+</picture>
 
-# 📊 GitHub Activity
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=kavizzz03&hide_border=true&theme=tokyonight&background=00000000" />
+  <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=kavizzz03&hide_border=true&theme=default" />
+</picture>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavizzz03&show_icons=true&hide_border=true&rank_icon=github" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=kavizzz03&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub trophies" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavizzz03&hide_border=true" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kavizzz03&bg_color=0d1117&color=35E0FF&line=6C47FF&point=ffffff&area=true&hide_border=true" />
+  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kavizzz03&bg_color=ffffff&color=6C47FF&line=6C47FF&point=14112B&area=true&hide_border=true" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kavizzz03/kavizzz03/output/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/kavizzz03/kavizzz03/output/github-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
-# 📈 What I Build
+## 🤝 Let's Build Something
 
-```text
-Web Applications       ████████████████████
-Backend Systems         ████████████████████
-REST APIs               ████████████████████
-API Integrations        ████████████████████
-Android Applications    ██████████████████
-Database Systems        ██████████████████
-Automation              ███████████████
-System Architecture     █████████████████
-```
+I'm open to **full-time roles and contract work** on:
 
----
+<div align="center">
 
-# 🤝 Let's Build Something
+![Full-stack](https://img.shields.io/badge/Full--stack_apps-6C47FF?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Backend_systems-0E9F78?style=for-the-badge)
+![APIs](https://img.shields.io/badge/REST_APIs-1AA7EC?style=for-the-badge)
+![Android](https://img.shields.io/badge/Android_apps-3DDC84?style=for-the-badge&logoColor=black)
+![Messaging](https://img.shields.io/badge/Messaging_platforms-FF4FD8?style=for-the-badge)
+![IoT](https://img.shields.io/badge/IoT_%26_data-F29A00?style=for-the-badge)
 
-I am interested in working on:
+**📬 [kavindumalshan2003@gmail.com](mailto:kavindumalshan2003@gmail.com)** &nbsp;·&nbsp; **💬 [WhatsApp](https://wa.me/94740890730)** &nbsp;·&nbsp; **🔗 [LinkedIn](https://linkedin.com/in/kavindu-bogahawatte-7b3810320)**
 
-- Full-stack web applications
-- Backend systems
-- REST API platforms
-- Android applications
-- API integrations
-- Database-driven systems
-- Business automation
-- Messaging platforms
-- SaaS products
-- E-commerce platforms
-- IoT and data-processing systems
-- Custom software solutions
+<br/>
 
-### 💬 Open for collaboration
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:35E0FF,100:6C47FF&section=footer&text=Build%20%E2%80%A2%20Integrate%20%E2%80%A2%20Scale%20%E2%80%A2%20Improve&fontColor=ffffff&fontSize=22&fontAlignY=68" alt="Footer" width="100%" />
 
-**Backend Architecture • Full-Stack Development • API Development • Android Development • Database Engineering • External API Integrations • System Architecture**
+<sub>© 2026 <b>Kavindu Bogahawatte</b> · Engineering scalable software systems</sub>
 
----
-
-# 🌐 Technology Snapshot
-
-```text
-Frontend
-Next.js • React • TypeScript • JavaScript • HTML • CSS • Bootstrap
-
-Backend
-Node.js • Express.js • PHP • Python
-
-Mobile
-Kotlin • Java • Android SDK • Jetpack Compose
-
-Databases
-MySQL • MongoDB • Microsoft SQL Server • Firebase
-
-APIs & Integrations
-REST • Webhooks • OAuth • JSON • Postman • Third-Party APIs
-
-DevOps & Tools
-Git • GitHub • Docker • Linux • Vercel • Android Studio
-
-Automation
-Python • FFmpeg • Background Processing • Data Pipelines
-```
-
----
-
-<p align="center">
-  <b>⚡ Build • Integrate • Scale • Improve</b>
-</p>
-
-<p align="center">
-  © 2026 <b>Kavindu Bogahawatte</b> · Engineering scalable software systems
-</p>
+</div>
