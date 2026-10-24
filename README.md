@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6C47FF,100:35E0FF&text=Kavindu%20Bogahawatte&fontColor=ffffff&fontSize=52&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20%E2%80%A2%20Backend%20%E2%80%A2%20Android%20%E2%80%A2%20API%20Integrations&descSize=18&descAlignY=58" alt="Kavindu Bogahawatte banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6C47FF,100:35E0FF&text=Kavindu%20Bogahawatte&fontColor=ffffff&fontSize=52&fontAlignY=36&animation=fadeIn&desc=Independent%20Software%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20Android%20%E2%80%A2%20APIs&descSize=18&descAlignY=58" alt="Kavindu Bogahawatte banner" width="100%" />
 
 <a href="https://github.com/kavizzz03">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=6C47FF&center=true&vCenter=true&width=760&height=48&lines=Designing+scalable+systems.;Building+reliable+APIs.;Shipping+native+Android+apps.;Turning+complex+ideas+into+products." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=6C47FF&center=true&vCenter=true&width=760&height=48&lines=Independent+engineer%2C+available+for+projects.;Designing+scalable+systems.;Building+reliable+APIs.;Shipping+native+Android+apps.;Turning+complex+ideas+into+products." alt="Typing animation" />
 </a>
 
 <br/>
@@ -12,6 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kavindu-bogahawatte-7b3810320)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavindumalshan2003@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94740890730)
+![Freelance](https://img.shields.io/badge/Available_for-freelance_work-0E9F78?style=for-the-badge)
 ![Profile views](https://komarev.com/ghpvc/?username=kavizzz03&style=for-the-badge&color=35E0FF&label=PROFILE+VIEWS)
 
 </div>
@@ -24,12 +25,12 @@ I'm a software engineer in **Colombo, Sri Lanka**. I build the quiet, dependable
 
 ```ts
 const kavindu: Engineer = {
-  role:      "Associate Software Engineer",
-  company:   "ASB Fashion (Pvt) Ltd",
+  role:      "Independent Software Engineer (freelance)",
+  previously:"Associate Software Engineer, ASB Fashion (Pvt) Ltd",
   education: "BSc (Hons) Software Engineering, University of Bedfordshire",
   strengths: ["REST APIs", "Backend systems", "Native Android", "Database design"],
   exploring: ["Reliable APIs", "Jetpack Compose", "WhatsApp automation", "Flood prediction"],
-  openTo:    ["Backend roles", "Full-stack roles", "Contract work"],
+  openTo:    ["Freelance projects", "Long-term contracts", "Full-time roles"],
   motto:     "Build • Integrate • Scale • Improve",
 };
 ```
@@ -320,7 +321,8 @@ flowchart LR
 flowchart LR
     A["🎓 Higher Diploma in IT<br/>SLIIT City University, Colombo"] --> B["🎓 BSc (Hons) Software Engineering<br/>University of Bedfordshire · 2023 to 2026"]
     B --> C["💼 Software Engineering Intern<br/>ASB Fashion · Nov 2025"]
-    C --> D["🚀 Associate Software Engineer<br/>ASB Fashion · May 2026 to now"]
+    C --> D["🚀 Associate Software Engineer<br/>ASB Fashion · from May 2026"]
+    D --> E["🧑‍💻 Independent Software Engineer<br/>Freelance · now"]
 ```
 
 ---
@@ -361,7 +363,7 @@ flowchart LR
 
 ## 🤝 Let's Build Something
 
-I'm open to **full-time roles and contract work** on:
+I'm now working **independently** and taking on **freelance projects and long-term contracts** (full-time roles too, for the right team) in:
 
 <div align="center">
 
