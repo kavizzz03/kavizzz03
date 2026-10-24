@@ -345,11 +345,18 @@ flowchart LR
   <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=kavizzz03&hide_border=true&theme=default" />
 </picture>
 
-<img src="https://github-profile-trophy.vercel.app/?username=kavizzz03&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub trophies" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kavizzz03/kavizzz03/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+  <img alt="Profile details" src="https://raw.githubusercontent.com/kavizzz03/kavizzz03/main/profile-summary-card-output/github/0-profile-details.svg" width="98%" />
+</picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kavizzz03&bg_color=0d1117&color=35E0FF&line=6C47FF&point=ffffff&area=true&hide_border=true" />
-  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kavizzz03&bg_color=ffffff&color=6C47FF&line=6C47FF&point=14112B&area=true&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kavizzz03/kavizzz03/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+  <img alt="Top languages by commits" src="https://raw.githubusercontent.com/kavizzz03/kavizzz03/main/profile-summary-card-output/github/2-most-commit-language.svg" width="49%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kavizzz03/kavizzz03/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
+  <img alt="Most productive time of day" src="https://raw.githubusercontent.com/kavizzz03/kavizzz03/main/profile-summary-card-output/github/4-productive-time.svg" width="49%" />
 </picture>
 
 <picture>
